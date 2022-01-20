@@ -5,3 +5,8 @@ h1 {
 h3 {
     color: lightpink;
 }
+
+img {
+    height: 50px;
+    width: 50px;
+}
